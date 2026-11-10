@@ -1,0 +1,17 @@
+
+[1mnpm[22m [96mnotice[39m [94mrun[39m happy-dom@0.0.0 compile
+[1mnpm[22m [96mnotice[39m [94mrun[39m npm run compile:build-css-properties && npm run compile:build-public-suffix-list && tsc && npm run compile:build-version-file
+[1mnpm[22m [96mnotice[39m [94mrun[39m happy-dom@0.0.0 compile:build-css-properties
+[1mnpm[22m [96mnotice[39m [94mrun[39m node ./bin/build-css-properties.cjs
+[1mDownloading CSS properties from Chromium...[22m
+[90m• Builds CSSPropertyList.ts[39m
+[90m• Builds ICSSStyleDeclaration.ts[39m
+[32mFinished[39m
+⠙[1G[0K[1mnpm[22m [96mnotice[39m [94mrun[39m happy-dom@0.0.0 compile:build-public-suffix-list
+[1mnpm[22m [96mnotice[39m [94mrun[39m node ./bin/build-public-suffix-list.cjs
+[1mDownloading Public Suffix List from https://publicsuffix.org/list/public_suffix_list.dat...[22m
+[90m• Builds PublicSuffixList.ts[39m
+[32mFinished[39m
+⠙[1G[0K[1mnpm[22m [96mnotice[39m [94mrun[39m happy-dom@0.0.0 compile:build-version-file
+[1mnpm[22m [96mnotice[39m [94mrun[39m node ./bin/build-version-file.cjs
+⠙[1G[0K⠙[1G[0K

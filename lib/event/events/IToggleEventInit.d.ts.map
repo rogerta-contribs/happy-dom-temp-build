@@ -1,0 +1,1 @@
+{"version":3,"file":"IToggleEventInit.d.ts","sourceRoot":"","sources":["../../../src/event/events/IToggleEventInit.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,OAAO,MAAM,gCAAgC,CAAC;AAC1D,OAAO,KAAK,UAAU,MAAM,kBAAkB,CAAC;AAE/C,MAAM,CAAC,OAAO,WAAW,gBAAiB,SAAQ,UAAU;IAC3D,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,MAAM,CAAC,EAAE,OAAO,GAAG,IAAI,CAAC;CACxB"}

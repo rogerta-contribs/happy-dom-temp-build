@@ -1,0 +1,8 @@
+
+[1mnpm[22m [96mnotice[39m [94mrun[39m happy-dom@0.0.0 test:circular-dependencies
+[1mnpm[22m [96mnotice[39m [94mrun[39m madge --circular --extensions js lib/index.js
+[?25l[37m⠋[39m Finding files[2K[1G[?25hProcessed [1m469[22m files [2m(702ms)[22m 
+
+[?25h[32m✔[39m [1mNo circular dependency found![22m
+
+[?25h⠙[1G[0K
